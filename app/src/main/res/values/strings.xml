@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PD2_Dialog</string>
+    <string name="go_to_2_nd">Go to 2-nd</string>
+    <string name="dialog">Dialog</string>
+    <string name="_1_st_activity">1-st Activity!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dialog_fire_missiles" />
+</resources>
